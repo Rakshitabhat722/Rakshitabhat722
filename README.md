@@ -1,5 +1,5 @@
 ## Hi there 👋
-Iam Rakshita Bhat
+Iam Rakshita Bhat.
 Iam currently pursuing BE in computer science Engineering at BMSIT&M
 <!--
 **Rakshitabhat722/Rakshitabhat722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
